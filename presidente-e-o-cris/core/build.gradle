@@ -1,0 +1,20 @@
+plugins {
+    id 'java'
+}
+
+group 'app.president'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = '17'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+
+}
+
+test {
+    useJUnitPlatform()
+}

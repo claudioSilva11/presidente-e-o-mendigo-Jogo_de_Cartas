@@ -1,0 +1,5 @@
+rootProject.name = 'presidente-e-o-cris'
+include 'core'
+include 'infraestrutura'
+include 'aplicacao'
+
